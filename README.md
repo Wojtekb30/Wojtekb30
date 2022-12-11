@@ -2,7 +2,7 @@
 
 Here I publish my projects and software, at least most of them.\
 I code mostly in Python, but I know and can work with most programming languages. I am also always happy to provide tech support.\
-Consider giving stars to my repositories. It motivates me and shows me what's worth further development. Thank you!\
+Consider giving stars to my repositories. It motivates me and shows me what's worth developing further. Thank you!\
 My achievements are hidden though. GitHub is a tool for professional work and therefore should never have them. Also, they can be easily faked on your own repos, therefore they're worthless.\
 Visit my website - birdtech.pl , this is also where you can find more ways to contact me.
 
