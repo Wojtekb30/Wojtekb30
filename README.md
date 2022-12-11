@@ -3,6 +3,7 @@
 Here I publish my projects and software, at least most of them.\
 I code mostly in Python, but I know and can work with most programming languages. I am also always happy to provide tech support.\
 Consider giving stars to my repositories. It means a lot to me. Thank you!\
+My achievements are hidden. They can be easily faked on your own repos, therefore they're worthless.\
 Visit my website - birdtech.pl
 
 --------------------------------------------------
@@ -11,6 +12,7 @@ Witam na moim GitHubie!\
 Tutaj publikuję swoje projekty i oprogramowanie, przynajmniej większość.\
 Koduję głównie w Pythonie, ale znam i potrafię pracować z większością języków programowania. Zawsze chętnie udzielam też wsparcia technicznego.\
 Rozważ przyznanie gwiazdek moim repozytoriom. To wiele dla mnie znaczy. Dziękuję!\
+Moje osiągnięcia są ukryte. Można je łatwo sfałszować na własnych repozytoriach, więc są bezwartościowe.\
 Odwiedź moją stronę internetową - birdtech.pl
 
 -----------------------------------------------------------------
