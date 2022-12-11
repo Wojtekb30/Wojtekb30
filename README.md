@@ -1,13 +1,13 @@
 # Welcome to my GitHub!
-I code mostly in Python, but I know and can work with most programming languages. I work as a programmer too. I am also always happy to provide tech support.\
-Consider giving stars to my repositories. It motivates me and shows me what's worth developing further. Thank you!\
-My achievements are hidden though. GitHub is a tool for professional work and therefore should never have them. Also, they can be easily faked on your own repos, therefore they're worthless.\
+I code mostly in Python, but I know and can work with lot of other programming languages as well. I work as a programmer too. I am also always happy to provide tech support.\
+Please consider giving stars to my repositories. They motivate me and show me what's worth developing further. Thank you!\
+My achievements are hidden though. GitHub is a tool for professional work and therefore in my opinion it should never have them. Also, they can be easily faked by doing things on your own repositories, therefore I personally find them worthless.\
 Visit my website - birdtech.pl , this is also where you can find more ways to contact me.
 
 # Witam na moim GitHubie!
-Koduję głównie w Pythonie, ale znam i potrafię pracować z większością języków programowania. Pracuję jako programista. Zawsze chętnie udzielam też wsparcia technicznego.\
-Rozważ przyznanie gwiazdek moim repozytoriom. Motywują mnie one i pokazują które z moich programów są warte dalszego rozwoju. Dziękuję!\
-Moje osiągnięcia są jednak ukryte. GitHub jako narzędzie profesjonalnej pracy nie powinien ich nigdy mieć. Można je też i tak łatwo sfałszować na własnych repozytoriach, więc są bezwartościowe. \
+Koduję głównie w Pythonie, ale znam i potrafię pracować z wieloma innymi językami programowania. Pracuję jako programista. Zawsze chętnie udzielam też wsparcia technicznego.\
+Rozważ proszę przyznanie gwiazdek moim repozytoriom. Motywują mnie one i pokazują, które z moich programów są warte dalszego rozwoju. Dziękuję!\
+Moje osiągnięcia są jednak ukryte. GitHub jako narzędzie profesjonalnej pracy według mnie nie powinien ich nigdy mieć. Można je także łatwo sfałszować wykorzystując własne repozytoria, dlatego osobiście uważam je za bezwartościowe. \
 Odwiedź moją stronę internetową - birdtech.pl , znajdziesz tam też więcej sposobów kontaktu ze mną.
 
 -----------------------------------------------------------------
