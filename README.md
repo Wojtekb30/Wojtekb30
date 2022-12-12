@@ -1,13 +1,11 @@
 # Welcome to my GitHub!
 I code mostly in Python, but I know and can work with lot of other programming languages as well. I work as a programmer too. I am also always happy to provide tech support.\
-Please consider giving stars to my repositories. They motivate me and show me what's worth developing further. Thank you!\
-My achievements are hidden though. GitHub is a tool for professional work and therefore in my opinion it should never have them. Also, they can be easily faked by doing things on your own repositories, therefore I personally find them worthless.\
+Please consider giving stars to my repositories. They motivate me and show me what's worth developing further. Thank you! My achievements are hidden though.\
 Visit my website - birdtech.pl , this is also where you can find more ways to contact me, more of my projects and link to my blog.
 
 # Witam na moim GitHubie!
 Koduję głównie w Pythonie, ale znam i potrafię pracować z wieloma innymi językami programowania. Pracuję jako programista. Zawsze chętnie udzielam też wsparcia technicznego.\
-Rozważ proszę przyznanie gwiazdek moim repozytoriom. Motywują mnie one i pokazują, które z moich programów są warte dalszego rozwoju. Dziękuję!\
-Moje osiągnięcia są jednak ukryte. GitHub jako narzędzie profesjonalnej pracy według mnie nie powinien ich nigdy mieć. Można je także łatwo sfałszować wykorzystując własne repozytoria, dlatego osobiście uważam je za bezwartościowe. \
+Rozważ proszę przyznanie gwiazdek moim repozytoriom. Motywują mnie one i pokazują, które z moich programów są warte dalszego rozwoju. Dziękuję! Moje osiągnięcia są jednak ukryte.\
 Odwiedź moją stronę internetową - birdtech.pl , znajdziesz tam też więcej sposobów kontaktu ze mną, więcej moich projektów oraz link do mojego bloga.
 
 -----------------------------------------------------------------
